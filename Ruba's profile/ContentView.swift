@@ -22,6 +22,7 @@ struct ContentView: View {
                 .foregroundColor(.gray)
             Text("An ambitious translator/interpreter, I can speak three languages, learning new things is my passion, I thrive in Cooaperative environments")
                 .foregroundColor(.blue)
+            Text("re was here").foregroundColor(.purple)
         }
         .padding()
         .padding()
