@@ -23,6 +23,7 @@ struct ContentView: View {
             Text("An ambitious translator/interpreter, I can speak three languages, learning new things is my passion, I thrive in Cooaperative environments")
                 .foregroundColor(.blue)
             Text("re was here").foregroundColor(.purple)
+            Text("Hi i'm raghad")
         }
         .padding()
         .padding()
